@@ -6,3 +6,6 @@ Use the  `npm i am-monitors` to install
 # Step 2
 Call am-monitor in component
 `import {SimpleMonitor} from 'am-monitor' ` 
+
+# Step 3 
+To use it you need to write inside JSX: ` <SimpleMonitor text='lorem ipsum' />`
