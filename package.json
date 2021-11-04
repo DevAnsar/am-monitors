@@ -9,7 +9,7 @@
 "files": [ "dist", "README.md" ],
 "repository": {
     "type": "git",
-    "url": "git+https://github.com/DevAnsar/npm-test.git"
+    "url": "https://github.com/DevAnsar/npm-test.git"
 },
 
   "name": "am-monitors",
