@@ -9,10 +9,10 @@
 "files": [ "dist", "README.md" ],
 "repository": {
     "type": "git",
-    "url": "https://github.com/DevAnsar/npm-test.git"
+    "url": "git+https://github.com/DevAnsar/npm-test.git"
 },
 
-  "name": "npm-test",
+  "name": "am-monitors",
   "version": "0.1.0",
 
   "dependencies": {
