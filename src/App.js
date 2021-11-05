@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
        
        <div style={{width:'300px'}}>
-          <DigitalNumber number='267' space_betwen={40} />
+          <DigitalNumber number={267} space_betwen={40} />
        </div>
        
       </header>

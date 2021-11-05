@@ -3,7 +3,7 @@ import './../styles/DigitalNumber.css';
 import SevenSegment from './SevenSegment';
 
 const getNumberOfDigit=(number)=>{
-   let arr=number.split('');
+   let arr=number.toString().split("");
    return [arr.length,arr]
 }
 const DigitalNumber = (props) => {
