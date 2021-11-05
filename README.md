@@ -9,3 +9,6 @@ Call am-monitor in component
 
 # Step 3 
 To use it you need to write inside JSX: ` <DigitalNumber number='267' />`
+
+# Result
+![alt text](https://raw.githubusercontent.com/DevAnsar/am-monitors/main/public/example.png)
