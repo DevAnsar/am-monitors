@@ -1,2 +1,2 @@
-import SimpleMonitor from './components/SimpleMonitor';
-export { SimpleMonitor };
+import DigitalNumber from './components/DigitalNumber/DigitalNumber';
+export { DigitalNumber };
